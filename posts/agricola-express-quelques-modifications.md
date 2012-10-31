@@ -138,7 +138,22 @@ Lorsqu'un joueur effectue une des actions suivante, il devient le premier joueur
 Comme ces actions sont des "versions limitées" de "labourage et semaille" et "construction de barrière et ajout d'animaux" l'acquisition du status de premier joueur vient le compenser.
 
 
-(À TESTER) Aménagement mineur source de nourriture et au choix des joueurs
+(À TESTER) Atelier de vannerie plus rentable
+--------------------------
+
+L'atelier de vannerie rapporte 1 point par roseau au lieu de 2 points par 2 roseaux.
+
+Comme le roseau est actuellement la ressource la moins rentable à posséder du jeu (on ne l'utilise que pour agrandir sa maison) il apparaît comme intéressant d'augmenter sa rentabilité en terme de points de victoire.
+
+
+(À TESTER) Atelier d'artisanat en roseau ou en bois
+--------------------------
+
+Les quatre ateliers d'artisanat sont possible à construire soit avec 1 bois (comme dans la règle de base) soit avec 1 roseau.
+
+Comme le roseau est actuellement la ressource la moins rentable à posséder du jeu (on ne l'utilise que pour agrandir sa maison) il apparaît comme intéressant de lui donner une autre utilisation. de plus dans la construction des aménagement on retrouve le couple "pierre - argile" pour es aménagement de cuisson alors que les aménagement ateliers d'artisanat ne peuvent eux être construit qu'avec du bois. C'est en partie ce qui crée une grande inégalité d'utilisation entre la pierre et le roseau (qui pourtant ont la même fréquence d'apparition sur les dés).
+
+(À TESTER) Ateliers d'artisanat au choix des joueur
 --------------------------
 
 Pour permettre au joueurs de choisir leur orientation plutôt que d'être dépendant purement du lancer du dé "Aménagements" on remplace par une face générique "atelier d'artisanat" les faces suivantes :
@@ -148,30 +163,20 @@ Pour permettre au joueurs de choisir leur orientation plutôt que d'être dépen
 *	atelier de tailleur de pierre
 *	atelier de vannerie
 
-Lorsque la face "atelier d'artisanat" est disponible un joueur peut l'utiliser pour construire n'importe lequel des ateliers. Mais pour éviter que cela soit trop facile on augmente le coût de chaque atelier d'une ressource qui lui est spécifique. Par contre ces activité permettront de générer de la nourriture. Cela donnera les coûts et bénéfices suivants :
+Lorsque la face "atelier d'artisanat" est disponible un joueur peut l'utiliser pour construire n'importe lequel des ateliers. Mais pour éviter que cela soit trop facile on augmente le coût de chaque atelier d'une ressource qui lui est spécifique.
 
-*	menuiserie : 
-	*	coût 		:	2 bois
-	*	score 		:	+2 / 3 bois
-	*	collecte 	:	+1 bois
-	*	nourriture 	:	+1 nourriture / 1 bois
 
-*	atelier de potterie : 
-	*	coût 		:	1 bois + 1 argile
-	*	score 		:	+2 / 3 argiles
-	*	collecte 	:	+1 argile
-	*	nourriture 	:	+1 nourriture / 1 argile
+(À TESTER) Ateliers d'artisanat source de nourriture
+--------------------------
 
-*	atelier de tailleur de pierre : 
-	*	coût 		:	1 bois + 1 pierre
-	*	score 		:	+2 / 2 pierres
-	*	collecte 	:	+1 pierre
-	*	nourriture 	:	+1 nourriture / 1 pierre
+Les ateliers d'artisanat permettent de générer de la nourriture :
 
-*	atelier de vannerie : 
-	*	coût 		:	1 bois + 1 roseau
-	*	score 		:	+2 / 2 roseaux
-	*	collecte 	:	+1 roseau
-	*	nourriture 	:	+2 nourriture / 1 roseau
+*	menuiserie :					+1 nourriture / 1 bois
 
-Le vannerie rapporte plus de nourriture pour compenser le fait qu'elle ne sert qu'à une seule chose dans le jeu (construire une nouvelle pièce) aors que toutes les autres ressources ont plusieurs utilités.
+*	atelier de potterie :			+1 nourriture / 1 argile
+
+*	atelier de tailleur de pierre :	+2 nourriture / 1 pierre
+
+*	atelier de vannerie :			+2 nourriture / 1 roseau
+
+Peut-être faudrait-il alors augmenter leur coût pour éviter de rendre le jeu trop facile ? Par exemple une ressource spécifique de l'atelier de plus..?
