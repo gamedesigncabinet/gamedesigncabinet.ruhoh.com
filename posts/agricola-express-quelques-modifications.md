@@ -8,12 +8,8 @@ tags: ['game design', 'print and play', 'boardgamegeek']
 type: draft
 ---
 
-Agricola Express : les modifications
-=======================
-
-
 Modification de l'iconographie
---------------------------
+=======================
 
 Les aide de jeu et les règles ne reflètent pas la règle 1.3 qui veut que les dés utilisé directement avec les dés d'action valent 1/2. En effet les actions sont notés avec un symbole rappelant une face de dé (un carré de couleur) tout comme les ressources à consommer... alors que justement on ne peut utiliser de face de dé pour les ressource (ou alors il en faut 2). 
 
@@ -21,7 +17,7 @@ Donc il faudrait remplacer le carré de couleur des ressources par un rond de co
 
 
 Modification de terminologie
------------------------
+=======================
 
 Les 13 dés du jeu sont en fait classable en 2 catégorie distinctes que les règles peuvent traiter différemment :
 
@@ -39,19 +35,22 @@ On peut ainsi désigner sans ambiguité les 2 types de dés différents. Le chan
 
 
 Malus de fin de partie
------------------------
+=======================
 
-Au cours de la dernière récolte les joueur subissent un malus de -1 point si :
+Au cours de la dernière récolte les joueur subissent un malus de :
 
-*	ils ont 0 céréale
-*	ils ont 0 légume
-*	ils ont 0 mouton
-*	ils ont 0 sanglier
-*	ils ont 0 boeuf
+*	-3 point si ils ont 0 pièces supplémentaires
+*	-3 point si ils ont 0 champs labourés
+*	-3 point si ils ont 0 paturages
+*	-1 point si ils ont 0 céréale
+*	-1 point si ils ont 0 légume
+*	-1 point si ils ont 0 mouton
+*	-1 point si ils ont 0 sanglier
+*	-1 point si ils ont 0 boeuf
 
 
 Attribution des paturages
------------------------
+=======================
 
 Lorsque l'on acquière des animaux il faut préciser sr son plateau **dans quel paturage** on les place. Pour cela on _dessine_ l'animal à côté du paturage concerné (c'est provisoire il faudra adapter la fiche de score).
 
@@ -59,7 +58,7 @@ Il est impossible de changer le type d'un enclos une fois que celui-ci a été f
 
 
 Reproduction par enclos
------------------------
+=======================
 
 Avec le système d'attribution des pâturage il devient possible d'avoir autant de naissance que d'enclos... et ce même si ils contiennent tous le même type d'animal. La règle est simple si on a 2 enclos de la même espèce il suffit d'avoir au moins 4 de ces animaux pour avoir 2 naissance (une dans chaque enclos).
 
@@ -67,7 +66,7 @@ Il n'est donc pas nécessaire de savoir combien il y a d'animaux dans chaque enc
 
 
 Récoltes sur le long terme
------------------------
+=======================
 
 L'utilisation de la face **champs** du dé ferme est modifiée.
 
@@ -89,7 +88,7 @@ Ainsi les céréales gagnent en intéret par rapport qux légumes car elles sont
 
 
 Légumes et céréales crues
--------------------------
+=======================
 
 Les légumes et les céréales peuvent être convertis chacun en une nourriture sans matériel de cuisson.
 
@@ -97,24 +96,28 @@ Cela permet de varier les stratégies pour nourrir sa famille en début de parti
 
 
 Relancement
------------------------
+=======================
 
-### Coût du relancement ###
+Coût du relancement
+-----------------------
 
 Si un joueur choisit de relancer les dés au lieu d'utiliser les dés laissés par son adversaire, il doit d'abord retirer au hasard un des dés disponible.
 
 
-### Nombre minimum de dés ###
+Nombre minimum de dés
+-----------------------
 
 Au début de la phase d'action d'un joueur, il doit y avoir au moins 6 dés en jeu (sans compter les dés de la zone "réserve x2"). Si ce n'est pas le cas, le joueur dois piocher les dés manquants au hasard dans la réserve puis les lancer.
 
 
-### Relancement à la fin de chaque tour ###
+Relancement à la fin de chaque tour
+-----------------------
 
 À la fin de chaque tour de jeu, l'ensemble des dés est relancé (pour compenser le fait qu'on ne relance jamais tous les dés).
 
 
-### Accumulation des ressources inutilisées ###
+Accumulation des ressources inutilisées
+-----------------------
 
 À la fin d'un tour de jeu les dés restant qui ne sont pas des dés d'action (ressource, nourriture, animaux) sont placé sur un mini plateau "réserve x2" et ne sont pas relancés.
 
@@ -126,7 +129,7 @@ Lors du relancement des dés en début de tour, on ne relance pas les dés qui s
 
 
 Changement de premier joueur
-------------------------
+=======================
 
 Avec l'incapacité de revenir à 13 dés en jeu n'importe quand dans la partie, il devient primordial de pouvoir se battre pour être dans les premiers à jouer... il faut donc ajouter une règle permettant au joueur de "prendre" la place de premier joueur en cours de jeu.
 
@@ -138,8 +141,20 @@ Lorsqu'un joueur effectue une des actions suivante, il devient le premier joueur
 Comme ces actions sont des "versions limitées" de "labourage et semaille" et "construction de barrière et ajout d'animaux" l'acquisition du status de premier joueur vient le compenser.
 
 
+(À TESTER) Jouer à plus de 4 joueurs
+=======================
+
+Selon le nombre de joueurs on ajuste le nombre minimum de dés en jeu :
+
+*	1 joueur	:	5 dés minimum
+*	2 joueurs	:	6 dés minimum
+*	3 joueurs	:	6 dés minimum
+*	4 joueurs	:	7 dés minimum
+*	5 joueurs	:	7 dés minimum
+
+
 (À TESTER) Atelier de vannerie plus rentable
---------------------------
+=======================
 
 L'atelier de vannerie rapporte 1 point par roseau au lieu de 2 points par 2 roseaux.
 
@@ -147,14 +162,14 @@ Comme le roseau est actuellement la ressource la moins rentable à posséder du 
 
 
 (À TESTER) Atelier d'artisanat en roseau ou en bois
---------------------------
+=======================
 
 Les quatre ateliers d'artisanat sont possible à construire soit avec 1 bois (comme dans la règle de base) soit avec 1 roseau.
 
 Comme le roseau est actuellement la ressource la moins rentable à posséder du jeu (on ne l'utilise que pour agrandir sa maison) il apparaît comme intéressant de lui donner une autre utilisation. de plus dans la construction des aménagement on retrouve le couple "pierre - argile" pour es aménagement de cuisson alors que les aménagement ateliers d'artisanat ne peuvent eux être construit qu'avec du bois. C'est en partie ce qui crée une grande inégalité d'utilisation entre la pierre et le roseau (qui pourtant ont la même fréquence d'apparition sur les dés).
 
 (À TESTER) Ateliers d'artisanat au choix des joueur
---------------------------
+=======================
 
 Pour permettre au joueurs de choisir leur orientation plutôt que d'être dépendant purement du lancer du dé "Aménagements" on remplace par une face générique "atelier d'artisanat" les faces suivantes :
 
@@ -167,7 +182,7 @@ Lorsque la face "atelier d'artisanat" est disponible un joueur peut l'utiliser p
 
 
 (À TESTER) Ateliers d'artisanat source de nourriture
---------------------------
+=======================
 
 Les ateliers d'artisanat permettent de générer de la nourriture :
 
