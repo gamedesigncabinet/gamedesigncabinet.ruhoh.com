@@ -52,7 +52,7 @@ Au cours de la dernière récolte les joueur subissent un malus de :
 Attribution des paturages
 =======================
 
-Lorsque l'on acquière des animaux il faut préciser sr son plateau **dans quel paturage** on les place. Pour cela on _dessine_ l'animal à côté du paturage concerné (c'est provisoire il faudra adapter la fiche de score).
+Lorsque l'on acquière des animaux il faut préciser sur son plateau **dans quel paturage** on les place. Pour cela on _dessine_ l'animal à côté du paturage concerné (c'est provisoire il faudra adapter la fiche de score).
 
 Il est impossible de changer le type d'un enclos une fois que celui-ci a été fixé. Par contre il est possible d'avoir plusieurs enclos de la même espèce de manière augmenter leur taux de reproduction.
 
@@ -72,13 +72,13 @@ L'utilisation de la face **champs** du dé ferme est modifiée.
 
 *	si on l'utilise **seule** : on labourre un champ
 
-*	si on l'utilise avec des **légumes**, on va consommer un légume par champ **disponible** que l'on souhaite planter : 
+*	si on l'utilise avec des **légumes** : 
 	1.	on labourre un champ
 	2.	on consomme autant de légumes tout de suite qu'il y a de champ disponible (sans légume ou céréale planté dessus)
 	3.	on **marque** chaque champ comme planté de légume en dessinant une carotte à côté. _C'est provisoire il faudra adapter la fiche de score_
 	4.	**à toutes les prochaines récoltes** au cours de la phase de reproduction on récupère +1 légume par champ planté
 
-*	si on l'utilise avec des **céréales**, on va consommer une céréale par champ **disponible** que l'on souhaite planter : 
+*	si on l'utilise avec des **céréales** : 
 	1.	on labourre un champ
 	2.	on consomme autant de céréales tout de suite qu'il y a de champ disponible (sans légume ou céréale planté dessus)
 	3.	on **marque** chaque champ planté en dessinant une céréale à côté. _C'est provisoire il faudra adapter la fiche de score_
