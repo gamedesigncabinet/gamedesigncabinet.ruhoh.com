@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="ScoreSheet_part_1.svg"
-   inkscape:export-filename="/home/pym/gamedesigncabinet.ruhoh.com/projects/Agricola Express/ScoreSheet_part_1.png"
+   inkscape:export-filename="/tmp/ScoreSheet_part_1.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -23939,6 +23939,7 @@
            y="0">1<tspan
    style="font-size:52.00042725%;baseline-shift:super"
    id="tspan5063">st</tspan>
+
 
  Player</tspan>
       </text>
