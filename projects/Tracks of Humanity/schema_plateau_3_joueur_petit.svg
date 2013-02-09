@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg9707"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="schema_plateau_3_joueur_petit.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.77807507"
+     inkscape:cx="373.87552"
+     inkscape:cy="546.26124"
+     inkscape:document-units="px"
+     inkscape:current-layer="g9720"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs9709" />
+  <metadata
+     id="metadata9712">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g9720"
+     inkscape:groupmode="layer"
+     inkscape:label="Hex Fill">
+    <path
+       style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 189.9375,151.96875 -162,93.53125 -27,46.78125 27,46.75 54,0 27,-46.75 54,0 27,-46.78125 54,0 27,46.78125 54,0 27,-46.78125 -27,-46.75 -81,-46.78125 z"
+       id="hexfill_4_2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 27.94285,339.03495 -26.99999978,46.78125 0,93.53125 26.99999978,46.75 162,93.53125 54,0 27,-46.75 -27,-46.78125 -54,0 -27,-46.75 -54,0 -27,-46.78125 27,-46.75 -27,-46.78125 z"
+       id="hexfill_4_3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <polygon
+       id="hexfill_5_3"
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="378.00002,233.82687 351.00001,280.59224 297.00001,280.59224 270.00001,233.82687 297.00001,187.0615 351.00001,187.0615 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_5_4"
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="378.00002,327.35762 351.00001,374.12299 297.00001,374.12299 270.00001,327.35762 297.00001,280.59224 351.00001,280.59224 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_6_2"
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="459.00002,187.0615 432.00002,233.82687 378.00002,233.82687 351.00001,187.0615 378.00002,140.29612 432.00002,140.29612 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_6_3"
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="459.00002,280.59224 432.00002,327.35762 378.00002,327.35762 351.00001,280.59224 378.00002,233.82687 432.00002,233.82687 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_6_4"
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="459.00002,374.12299 432.00002,420.88836 378.00002,420.88836 351.00001,374.12299 378.00002,327.35762 432.00002,327.35762 "
+       transform="translate(-188.05715,105.22245)" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 189.94285,619.6287 -27,46.78125 0,93.53125 27,46.75 162,93.53125 54,0 27,-46.75 -27,-46.78125 -54,0 -27,-46.75 -54,0 -27,-46.78125 27,-46.75 -27,-46.78125 z"
+       id="hexfill_6_6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <polygon
+       id="hexfill_7_3"
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="540.00002,233.82687 513.00002,280.59224 459.00002,280.59224 432.00002,233.82687 459.00002,187.0615 513.00002,187.0615 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_7_4"
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="540.00002,327.35762 513.00002,374.12299 459.00002,374.12299 432.00002,327.35762 459.00002,280.59224 513.00002,280.59224 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_7_5"
+       style="fill:#ffff66;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="540.00002,420.88836 513.00002,467.65374 459.00002,467.65374 432.00002,420.88836 459.00002,374.12299 513.00002,374.12299 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_7_6"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="540.00002,514.41911 513.00002,561.18448 459.00002,561.18448 432.00002,514.41911 459.00002,467.65374 513.00002,467.65374 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_7_7"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="540.00002,607.94986 513.00002,654.71523 459.00002,654.71523 432.00002,607.94986 459.00002,561.18448 513.00002,561.18448 "
+       transform="translate(-188.05715,105.22245)" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 513.94285,151.97245 -162,93.53125 -27,46.78125 27,46.75 54,0 27,-46.75 54,0 27,-46.78125 54,0 27,46.78125 54,0 27,-46.78125 -27,-46.75 -81,-46.78125 z"
+       id="hexfill_8_2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <polygon
+       id="hexfill_8_3"
+       style="fill:#ffff66;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="621.00003,280.59224 594.00002,327.35762 540.00002,327.35762 513.00002,280.59224 540.00002,233.82687 594.00002,233.82687 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_8_4"
+       style="fill:#ffff66;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="621.00003,374.12299 594.00002,420.88836 540.00002,420.88836 513.00002,374.12299 540.00002,327.35762 594.00002,327.35762 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_8_5"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="621.00003,467.65374 594.00002,514.41911 540.00002,514.41911 513.00002,467.65374 540.00002,420.88836 594.00002,420.88836 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_8_6"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="621.00003,561.18448 594.00002,607.94986 540.00002,607.94986 513.00002,561.18448 540.00002,514.41911 594.00002,514.41911 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_8_7"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="621.00003,654.71523 594.00002,701.4806 540.00002,701.4806 513.00002,654.71523 540.00002,607.94986 594.00002,607.94986 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_9_3"
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="702.00003,233.82687 675.00003,280.59224 621.00003,280.59224 594.00002,233.82687 621.00003,187.0615 675.00003,187.0615 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_9_4"
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="702.00003,327.35762 675.00003,374.12299 621.00003,374.12299 594.00002,327.35762 621.00003,280.59224 675.00003,280.59224 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_9_5"
+       style="fill:#ffff66;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="702.00003,420.88836 675.00003,467.65374 621.00003,467.65374 594.00002,420.88836 621.00003,374.12299 675.00003,374.12299 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_9_6"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="702.00003,514.41911 675.00003,561.18448 621.00003,561.18448 594.00002,514.41911 621.00003,467.65374 675.00003,467.65374 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_9_7"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="702.00003,607.94986 675.00003,654.71523 621.00003,654.71523 594.00002,607.94986 621.00003,561.18448 675.00003,561.18448 "
+       transform="translate(-188.05715,105.22245)" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 513.94285,526.09745 -27,46.78125 27,46.75 -27,46.78125 27,46.75 -27,46.78125 -54,0 -27,46.75 27,46.78125 54,0 81,-46.78125 27,-46.75 0,-187.0625 -27,-46.78125 z"
+       id="hexfill_9_8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <polygon
+       id="hexfill_10_2"
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="783.00003,187.0615 756.00003,233.82687 702.00003,233.82687 675.00003,187.0615 702.00003,140.29612 756.00003,140.29612 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_10_3"
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="783.00003,280.59224 756.00003,327.35762 702.00003,327.35762 675.00003,280.59224 702.00003,233.82687 756.00003,233.82687 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_10_4"
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="783.00003,374.12299 756.00003,420.88836 702.00003,420.88836 675.00003,374.12299 702.00003,327.35762 756.00003,327.35762 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_11_3"
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="864.00003,233.82687 837.00003,280.59224 783.00003,280.59224 756.00003,233.82687 783.00003,187.0615 837.00003,187.0615 "
+       transform="translate(-188.05715,105.22245)" />
+    <polygon
+       id="hexfill_11_4"
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       points="864.00003,327.35762 837.00003,374.12299 783.00003,374.12299 756.00003,327.35762 783.00003,280.59224 837.00003,280.59224 "
+       transform="translate(-188.05715,105.22245)" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 675.94285,245.5037 -27,46.78125 27,46.75 -27,46.78125 27,46.75 -27,46.78125 -54,0 -27,46.75 27,46.78125 54,0 81,-46.78125 27,-46.75 0,-187.0625 -27,-46.78125 z"
+       id="hexfill_11_5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+  </g>
+</svg>
