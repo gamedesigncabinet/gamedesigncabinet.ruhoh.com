@@ -666,31 +666,35 @@
     <polygon
        transform="matrix(5.1935517,0,0,5.1935517,-1406.0655,-1832.0436)"
        id="polygon7235"
-       style="fill:none;stroke:#000000;stroke-width:0.15628468;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:none;stroke:#000000;stroke-width:0.09627323;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.57763938,0.57763938;display:inline;stroke-dashoffset:0"
        points="310.03937,483.30355 341.04331,429.60315 403.05118,429.60315 434.05512,483.30355 403.05118,537.00394 341.04331,537.00394 " />
     <path
        inkscape:connector-curvature="0"
        id="path8869"
        d="m 501.03125,151.8125 -25.1875,43.59375 -50.3125,0 L 400.34375,239 350.03125,239 324.875,282.5625 350.03125,326.15625 324.875,369.75 350.03125,413.34375 324.875,456.9375 350.03125,500.5 l 50.3125,0 25.1875,-43.5625 -25.1875,-43.59375 25.1875,-43.59375 -25.1875,-43.59375 25.1875,-43.59375 50.3125,0 25.1875,-43.5625 50.3125,0 25.15625,43.5625 50.34375,0 L 652,326.15625 626.84375,369.75 652,413.34375 626.84375,456.9375 652,500.5 l 50.34375,0 L 727.5,456.9375 702.34375,413.34375 727.5,369.75 702.34375,326.15625 727.5,282.5625 702.34375,239 652,239 l -25.15625,-43.59375 -50.34375,0 -25.15625,-43.59375 -50.3125,0 z"
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.81167257;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3,3;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        transform="translate(0,308.2677)" />
     <path
-       style="fill:none;stroke:#000000;stroke-opacity:1;display:inline"
-       d="M 576.5,282.5625 551.34375,326.15625 576.5,369.75 551.34375,413.34375 576.5,456.9375 551.34375,500.5 576.5,544.09375 l 50.34375,0 L 652,500.5 626.84375,456.9375 652,413.34375 626.84375,369.75 652,326.15625 626.84375,282.5625 l -50.34375,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3,3;stroke-dashoffset:0;display:inline"
+       d="m 551.34375,500.5 25.15625,43.59375 50.34375,0 L 652,500.5"
        transform="translate(0,308.2677)"
        id="hexfill_6_4-4"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-opacity:1;display:inline"
-       d="m 425.53125,282.5625 -25.1875,43.59375 25.1875,43.59375 -25.1875,43.59375 25.1875,43.59375 -25.1875,43.5625 25.1875,43.59375 50.3125,0 25.1875,-43.59375 -25.1875,-43.5625 25.1875,-43.59375 -25.1875,-43.59375 25.1875,-43.59375 -25.1875,-43.59375 -50.3125,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3,3;stroke-dashoffset:0;display:inline"
+       d="m 400.34375,500.5 25.1875,43.59375 50.3125,0 25.1875,-43.59375"
        transform="translate(0,308.2677)"
        id="hexfill_4_4-0"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-opacity:1;display:inline"
-       d="M 501.03125 239 L 475.84375 282.5625 L 501.03125 326.15625 L 475.84375 369.75 L 501.03125 413.34375 L 475.84375 456.9375 L 501.03125 500.5 L 551.34375 500.5 L 576.5 456.9375 L 551.34375 413.34375 L 576.5 369.75 L 551.34375 326.15625 L 576.5 282.5625 L 551.34375 239 L 501.03125 239 z "
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3,3;stroke-dashoffset:0;display:inline"
+       d="m 475.84375,282.5625 25.1875,43.59375 -25.1875,43.59375 25.1875,43.59375 -25.1875,43.59375 25.1875,43.5625 50.3125,0 L 576.5,456.9375 551.34375,413.34375 576.5,369.75 551.34375,326.15625 576.5,282.5625"
        transform="translate(0,308.2677)"
-       id="hexfill_5_4-2" />
+       id="hexfill_5_4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -713,7 +717,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="marges d'impression"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="color:#000000;fill:none;stroke:#a40000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
